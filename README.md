@@ -10,4 +10,4 @@ If you have an issue that is appropriate for a Github issue tracker, please foll
 
 [REBL (If a REBL issue)] [Type of Issue] || Vehicle Name (If applies) || Issue
 
-Detailed Description of Issue || Why it is an Issue || Possible Solutions
+Detailed Description of Issue || Why it is an Issue || Possible Causes || Possible Solutions
